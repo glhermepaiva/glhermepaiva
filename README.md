@@ -12,4 +12,4 @@
 
 🤹‍♂️ Também falo **inglês fluente** e trago conhecimentos de **Jornalismo**, que me graduei em 2012 na PUC-Campinas.
 
-✉ Fique a vontade para entrar em contato comigo pelo meu [Linkedin](https://www.linkedin.com/in/glhrmpaiva/) ou pelo _glhrmpaiva@gmail.com_
+📬 Fique a vontade para entrar em contato comigo pelo meu [Linkedin](https://www.linkedin.com/in/glhrmpaiva/) ou pelo _glhrmpaiva@gmail.com_
