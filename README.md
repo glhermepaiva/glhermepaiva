@@ -12,4 +12,6 @@
 
 🤹‍♂️ Também falo **inglês fluente** e trago conhecimentos de **Jornalismo**, que me graduei em 2012 pela PUC-Campinas.
 
+🧪 Meus repositórios aqui contém projetos que eu desenvolvi ao longo do bootcamp da Labenu e também projetos pessoais que faço para treinar.
+
 📬 Fique a vontade para entrar em contato comigo pelo meu [Linkedin](https://www.linkedin.com/in/glhrmpaiva/) ou pelo _glhrmpaiva@gmail.com_
