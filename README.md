@@ -10,7 +10,7 @@
 
 🏅 Conclusão do curso prevista para novembro de 2020.
 
-🤹‍♂️ Também falo **inglês fluente** e trago conhecimentos de **Jornalismo**, que me graduei em 2012 pela PUC-Campinas.
+🤹‍♂️ Falo **inglês fluente** e também trago conhecimentos de **Jornalismo**, que me graduei em 2012 pela PUC-Campinas.
 
 🧪 Meus repositórios aqui contém projetos que eu desenvolvi ao longo do bootcamp na Labenu e também projetos pessoais.
 
