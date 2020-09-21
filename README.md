@@ -6,7 +6,7 @@
 
 👓 Por enquanto, já sei me virar bem com **Frontend**: **HTML**, **CSS**, **Javascript**, **React** e libs como **Axios**, **Styled Components** e **Material UI**.
 
-🚀 Atualmente estou aprendendendo sobre o **Backend**, mais específicamente: _Typescript, Node, AWS, SQL, Jest e Firebase._
+🚀 Atualmente estou aprendendendo sobre o **Backend**, mais específicamente: _Typescript, Node, SQL, AWS, Firebase e Jest._
 
 🏅 Conclusão do curso prevista para novembro de 2020.
 
