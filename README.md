@@ -14,4 +14,4 @@
 
 🧪 Meus repositórios aqui contém projetos que eu desenvolvi ao longo do bootcamp na Labenu e também projetos pessoais.
 
-📬 Fique a vontade para entrar em contato comigo pelo meu [Linkedin](https://www.linkedin.com/in/glhrmpaiva/) ou pelo _glhrmpaiva@gmail.com_
+📬 Fique a vontade para entrar em contato comigo pelo meu [Linkedin](https://www.linkedin.com/in/glhrmpaiva/) ou pelo glhrmpaiva@gmail.com
