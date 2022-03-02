@@ -6,9 +6,9 @@
 
 🏅 O curso teve duração de 6 meses, de maio à novembro de 2020, com mais de 1000 horas de prática.
 
-🧬 Trabalho atualmente na [Point Media](https://www.pointmedia.com.br/) desenvolvendo sites em React e fazendo dinamização de banners criativos (DCO).
+🧬 Trabalho atualmente na [Point Media](https://www.pointmedia.com.br/) desenvolvendo sites em React, Next.js e fazendo dinamização de banners criativos (DCO).
 
-👓 Me viro bem no **Frontend** com **HTML**, **CSS**, **Javascript**, **React** e libs como **Axios**, **Styled Components** e **Material UI**.
+👓 Me viro bem no **Frontend** com **HTML**, **CSS**, **Javascript**, **React**, **Next.js** e libs como **Axios**, **Styled Components** e **Material UI**.
 
 🚀 E também no **Backend**, com **Typescript**, **Node**, **MySQL** e **AWS**.
 
