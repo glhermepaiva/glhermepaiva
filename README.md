@@ -8,9 +8,7 @@
 
 🧬 Trabalho atualmente na **[Point Media](https://www.pointmedia.com.br/)** desenvolvendo sites em React, Next.js e fazendo dinamização de banners criativos (DCO).
 
-👓 Me viro bem no **Frontend** com **HTML**, **CSS**, **Javascript**, **React**, **Next.js** e libs como **Axios**, **Styled Components** e **Material UI**.
-
-🚀 E também no **Backend**, com **Typescript**, **Node**, **MySQL** e **AWS**.
+👓 Me viro bem no **Frontend** com **HTML**, **CSS**, **Javascript**, **React**, **Next.js** e outros.
 
 🤹‍♂️ Falo **inglês fluente** e também trago conhecimentos de **Jornalismo**, que me graduei em 2012 pela PUC-Campinas.
 
