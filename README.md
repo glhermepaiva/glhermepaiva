@@ -2,7 +2,7 @@
 
 😄 Meu nome é **Guilherme Paiva**, tenho 32 anos e moro em Piracicaba/SP.
 
-💻 Sou **Desenvolvedor Web Full Stack** formado pela [Labenu](https://www.labenu.com.br), escola online de programação.
+💻 Sou **Desenvolvedor Web Full Stack** formado pela Labenu, escola online de programação.
 
 🏅 O curso teve duração de 6 meses, de maio à novembro de 2020, com mais de 1000 horas de prática.
 
