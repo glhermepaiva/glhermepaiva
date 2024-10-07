@@ -1,6 +1,6 @@
 ### Hello stranger! 👋
 
-😄 Meu nome é **Guilherme Paiva**, tenho 32 anos e moro em Piracicaba/SP.
+😄 Meu nome é **Guilherme Paiva**, tenho 33 anos e moro em Piracicaba/SP.
 
 💻 Sou **Desenvolvedor Web Full Stack** formado pela Labenu, escola online de programação.
 
