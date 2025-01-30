@@ -4,7 +4,7 @@
 
 👨🏻‍💻 Sou **Desenvolvedor Web Front-end** com mais de 3 anos de experiência em **React, Next.js, HTML, CSS, Javascript e Node.js**.
 
-🤖 Apaixonado por tecnologia desde criança, hoje sou entusiasta de IA e estou estudando para me tornar um Prompt Engineer.
+🤖 Apaixonado por tecnologia desde criança, hoje sou entusiasta de **IA** e estou estudando para me tornar um **Prompt Engineer**.
 
 🧬 Trabalhei na **[Point Media](https://www.pointmedia.com.br/)** desenvolvendo sites em React e Next.js, fazendo dinamização de banners criativos (DCO), além de trabalhar na plataforma de automação da produção de banners digitais, o **[re.animate](https://reanimate.pointmedia.com.br/)**.
 
