@@ -6,7 +6,7 @@
 
 🤖 Apaixonado por tecnologia desde criança, hoje sou entusiasta de **IA** e estou estudando para me tornar um **Prompt Engineer**.
 
-🧬 Trabalhei na **[Point Media](https://www.pointmedia.com.br/)** desenvolvendo sites em React e Next.js, fazendo dinamização de banners criativos (DCO), além de trabalhar na plataforma de automação da produção de banners digitais, o **[re.animate](https://reanimate.pointmedia.com.br/)**.
+🧬 Trabalhei na **[Point Media](https://www.pointmedia.com.br/)** desenvolvendo sites em React e Next.js, fazendo dinamização de banners criativos (**DCO**), além de trabalhar na plataforma de automação da produção de banners digitais, o **[re.animate](https://reanimate.pointmedia.com.br/)**.
 
 🤹‍♂️ Falo **inglês fluente**, tenho vivência em **cultura Agile** e **Design Thinking**, sou uma pessoa muito criativa, calma, organizada, de mente aberta, com muita vontade de aprender e facilidade para trabalhar em equipe.
 
