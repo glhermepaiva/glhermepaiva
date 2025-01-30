@@ -2,7 +2,7 @@
 
 😄 Meu nome é **Guilherme Paiva**, tenho 33 anos e moro em Piracicaba/SP.
 
-💻 Sou **Desenvolvedor Web Front-end** com mais de 3 anos de experiência em **React, Next.js, HTML, CSS, Javascript e Node.js**.
+👨🏻‍💻 Sou **Desenvolvedor Web Front-end** com mais de 3 anos de experiência em **React, Next.js, HTML, CSS, Javascript e Node.js**.
 
 🤖 Apaixonado por tecnologia desde criança, hoje sou entusiasta de IA e estou estudando para me tornar um Prompt Engineer.
 
